@@ -46,7 +46,7 @@ def extract_frames(
 
 if __name__ == "__main__":
     extract_frames(
-        input_video="/Users/lucas/Downloads/06-03-16-0.mp4",
+        input_video="/Users/lucas/Downloads/15-03-08-0.mp4",
         output_dir="/Users/lucas/Downloads/output_frames",
         fps=1/10, # 每10秒一帧
         start_time="00:02:00",
